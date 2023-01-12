@@ -1,7 +1,7 @@
 let altura = 0,
   largura = 0,
   vidas = 1,
-  tempo = 1,
+  tempo = 100,
   tempoMosquito = 1500;
 
 let dificuldade = window.location.search;
